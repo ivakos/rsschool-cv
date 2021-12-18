@@ -1,4 +1,4 @@
-![Ivan Kasenka](assets/img/photo.jpg){:height="90px" width="60px"}
+![Ivan Kasenka](assets/img/photo.jpg){:height="413px" width="360px"}
 # **Ivan Kasenka** #
 
 ## 📞 Contacts 
