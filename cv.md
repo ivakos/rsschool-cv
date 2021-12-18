@@ -1,4 +1,4 @@
-![Ivan Kasenka](assets/img/photo.jpg)
+![Ivan Kasenka](assets/img/photo.jpg =60x90)
 # **Ivan Kasenka** #
 
 ## 📞 Contacts 
