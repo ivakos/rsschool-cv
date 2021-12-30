@@ -64,7 +64,7 @@ Nowadays, I haven't so much experience in project, but I wanna change that.
 ### Higher education
 
 | :--- | :--- |
-| 2005 — 2011 | **Bachelor's degree** <br> **University:** (Brest State Technical University <br> **Faculty:** Faculty of Electronic Information Systems<br> **Department:** Intelligent information technology<br> **Speciality:** Artificial Intelligence (AI) |
+| 2015 — 2020 | **Bachelor's degree** <br> **University:** (Brest State Technical University <br> **Faculty:** Faculty of Electronic Information Systems<br> **Department:** Intelligent information technology<br> **Speciality:** Artificial Intelligence (AI) |
 
 &nbsp;
 
