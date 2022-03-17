@@ -1,1 +1,1 @@
-https://ivakos.github.io/rsschool-cv-0stage/cv
+https://ivakos.github.io/rsschool-cv/cv
