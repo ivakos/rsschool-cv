@@ -32,7 +32,6 @@ I'm 28 years old and I come from Belarus, city of Brest. Nowadays I continue to 
 
 ---
 
-
 ## Work Experience
 
 ### Ernis LLC — System Administrator
@@ -52,7 +51,6 @@ I'm 28 years old and I come from Belarus, city of Brest. Nowadays I continue to 
 ---
 
 ## Education
-
 ### Brest State Technical University / Bachelor of Computer Science
 Speciality: artificial intelligence;
 *2015-2020*
@@ -60,5 +58,4 @@ Speciality: artificial intelligence;
 ---
 
 ## English Language
-- **Level:** B1 
- 
+- **Level:** B1
